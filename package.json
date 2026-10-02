@@ -1,0 +1,8 @@
+{
+  "name": "filmbox-video-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"start": "node --env-file-if-exists=.env server.js"},
+  "dependencies": {"express": "^5.1.0"}
+}
